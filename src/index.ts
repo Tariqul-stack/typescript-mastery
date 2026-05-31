@@ -1,6 +1,42 @@
-const name: string = "Tariqul";
+// Exercise 1
+function multiply(a:number, b:number ): number {
+  return a * b;
+}
 
-const age: number = 18;
 
-console.log(`My name is ${name}`);
-console.log(`My age is ${age}`);
+// Exercise 2
+function greet(name: string): string {
+  return name;
+}
+
+// Exercise 3
+
+// function UserCard({ name, age, isAdmin }): string,number,boolean {
+//   return <div>{name} - {age} - {isAdmin ? "Admin" : "User"}</div>;
+// }
+
+interface UserCardProps {
+  name: string;
+  age: number;
+  isAdmin: boolean;
+}
+
+function UserCard({ name, age, isAdmin }: UserCardProps) {
+  return `${name} - ${age} - ${isAdmin ? "Admin" : "User"}`;
+}
+
+// Mini Project
+function handleUserLogin(
+  req: { body: { email: string; password: string } },
+  res: { status: (code: number) => void; json: (data: object) => void }
+) {
+  const { email, password } = req.body;
+
+  if (!email || !password) {
+    res.status(400).json({ error: "Missing fields" });
+    return;
+  }
+
+  res.json({ success: true, email });
+}
+

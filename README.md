@@ -8,7 +8,7 @@ Built on top of existing MERN stack knowledge (React, Next.js, Express, MongoDB)
 | Lesson | Topic | Status |
 |--------|-------|--------|
 | 01 | Why TypeScript? JS vs TS comparison | ✅ Done |
-| 02 | Setup & tsconfig basics | ⬜ Todo |
+| 02 | Setup & tsconfig basics | ✅ Done |
 | 03 | Type annotations & inference | ⬜ Todo |
 | 04 | Primitives, any, unknown, never | ⬜ Todo |
 | 05 | Interfaces & type aliases | ⬜ Todo |

@@ -37,11 +37,15 @@ Built on top of existing MERN stack knowledge (React, Next.js, Express, MongoDB)
 - MongoDB / Mongoose
 
 ## 📁 Structure
-\```
+
+```
 typescript-mastery/
-├── phase-1-foundations/
-├── phase-2-core-types/
-├── phase-3-oop/
-├── phase-4-advanced/
-└── phase-5-mern-practice/
-\```
+├── src/
+│   ├── lesson-01/
+│   ├── lesson-02/
+│   ├── lesson-03/
+│   └── ...
+├── dist/
+├── tsconfig.json
+└── .gitignore
+```

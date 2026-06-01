@@ -10,7 +10,7 @@ Built on top of existing MERN stack knowledge (React, Next.js, Express, MongoDB)
 | 01 | Why TypeScript? JS vs TS comparison | ✅ Done |
 | 02 | Setup & tsconfig basics | ✅ Done |
 | 03 | Type annotations & inference | ✅ Done |
-| 04 | Primitives, any, unknown, never | ⬜ Todo |
+| 04 | Primitives, any, unknown, never | ✅ Done |
 | 05 | Interfaces & type aliases | ⬜ Todo |
 | 06 | Union & intersection types | ⬜ Todo |
 | 07 | Arrays, tuples & enums | ⬜ Todo |

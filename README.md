@@ -11,8 +11,8 @@ Built on top of existing MERN stack knowledge (React, Next.js, Express, MongoDB)
 | 02 | Setup & tsconfig basics | ✅ Done |
 | 03 | Type annotations & inference | ✅ Done |
 | 04 | Primitives, any, unknown, never | ✅ Done |
-| 05 | Interfaces & type aliases | ✅ Done  |
-| 06 | Union & intersection types | ⬜ Todo |
+| 05 | Interfaces & type aliases | ✅ Done |
+| 06 | Union & intersection types | ✅ Done |
 | 07 | Arrays, tuples & enums | ⬜ Todo |
 | 08 | Functions & overloads | ⬜ Todo |
 | 09 | Type narrowing & guards | ⬜ Todo |

@@ -4,10 +4,10 @@
 
 // ----- Interface basics -----
 interface User {
-  readonly _id: string;
+//   readonly _id: string;
   name: string;
   email: string;
-  age?: number;
+//   age?: number;
   readonly createdAt: Date;
 }
 
@@ -20,7 +20,7 @@ interface Product {
   category: string;
 }
 
-const product: Product = {
+const Product: Product = {
   id: "p001",
   name: "iPhone 15",
   price: 999,
@@ -55,7 +55,7 @@ interface UserShape {
 }
 
 // B: Union — Type
-type Status = "loading" | "success" | "error";
+// type Status = "loading" | "success" | "error";
 
 // C: Function signature — Type
 type GetUser = (id: string) => Promise<UserShape>;
@@ -76,7 +76,7 @@ interface ApiError {
   error: string;
 }
 
-type ApiResponse<T> = ApiSuccess<T> | ApiError;
+// type ApiResponse<T> = ApiSuccess<T> | ApiError;
 
 const products: Product[] = [
   {

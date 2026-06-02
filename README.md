@@ -14,7 +14,7 @@ Built on top of existing MERN stack knowledge (React, Next.js, Express, MongoDB)
 | 05 | Interfaces & type aliases | ✅ Done |
 | 06 | Union & intersection types | ✅ Done |
 | 07 | Arrays, tuples & enums | ✅ Done |
-| 08 | Functions & overloads | ⬜ Todo |
+| 08 | Functions & overloads | ✅ Done |
 | 09 | Type narrowing & guards | ⬜ Todo |
 | 10 | Classes & access modifiers | ⬜ Todo |
 | 11 | Inheritance & abstract classes | ⬜ Todo |

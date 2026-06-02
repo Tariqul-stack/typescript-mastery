@@ -13,7 +13,7 @@ Built on top of existing MERN stack knowledge (React, Next.js, Express, MongoDB)
 | 04 | Primitives, any, unknown, never | ✅ Done |
 | 05 | Interfaces & type aliases | ✅ Done |
 | 06 | Union & intersection types | ✅ Done |
-| 07 | Arrays, tuples & enums | ⬜ Todo |
+| 07 | Arrays, tuples & enums | ✅ Done |
 | 08 | Functions & overloads | ⬜ Todo |
 | 09 | Type narrowing & guards | ⬜ Todo |
 | 10 | Classes & access modifiers | ⬜ Todo |

@@ -17,7 +17,7 @@ Built on top of existing MERN stack knowledge (React, Next.js, Express, MongoDB)
 | 08 | Functions & overloads | ✅ Done |
 | 09 | Type narrowing & guards | ✅ Done |
 | 10 | Classes & access modifiers | ✅ Done |
-| 11 | Inheritance & abstract classes | ⬜ Todo |
+| 11 | Inheritance & abstract classes | ✅ Done |
 | 12 | Interfaces with classes | ⬜ Todo |
 | 13 | Generics fundamentals | ⬜ Todo |
 | 14 | Utility types | ⬜ Todo |
